@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="inputWeight">Weight (KG)</string>
+    <string name="inputHeight">Height (CM)</string>
+    <string name="textCalculate">Calculate</string>
+    <string name="textReset">Reset</string>
+    <string name="resultUWeight"> Under Weight</string>
+    <string name="resultNWeight"> Normal</string>
+    <string name="resultOWeight"> Over Weight</string>
+    <string name="errorMessage">Invalid Inputs!</string>
+</resources>
